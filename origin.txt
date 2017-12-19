@@ -1,0 +1,84 @@
+Uri: http://www.kadesprivate.xyz/
+File Name: C:\New folder\www.kadesprivate.xyz\index.htm
+Content Type: text/html
+
+Uri: http://www.kadesprivate.xyz/img/favicon.ico
+File Name: C:\New folder\www.kadesprivate.xyz\img\favicon.ico
+Content Type: image/x-icon
+
+Uri: http://www.kadesprivate.xyz/Kade/bootstrap.min.css
+File Name: C:\New folder\www.kadesprivate.xyz\Kade\bootstrap.min.css
+Content Type: text/css
+
+Uri: http://www.kadesprivate.xyz/Kade/averion.min.css
+File Name: C:\New folder\www.kadesprivate.xyz\Kade\averion.min.css
+Content Type: text/css
+
+Uri: http://www.kadesprivate.xyz/Kade/font-awesome.css
+File Name: C:\New folder\www.kadesprivate.xyz\Kade\font-awesome.css
+Content Type: text/css
+
+Uri: http://www.kadesprivate.xyz/Kade/font-awesome.min.css
+File Name: C:\New folder\www.kadesprivate.xyz\Kade\font-awesome.min.css
+Content Type: text/css
+
+Uri: http://www.kadesprivate.xyz/Kade/js.css
+File Name: C:\New folder\www.kadesprivate.xyz\Kade\js.css
+Content Type: text/css
+
+Uri: http://www.kadesprivate.xyz/Kade/star-animation.css
+File Name: C:\New folder\www.kadesprivate.xyz\Kade\star-animation.css
+Content Type: text/css
+
+Uri: http://www.kadesprivate.xyz/Kade/css
+File Name: C:\New folder\www.kadesprivate.xyz\Kade\css.txt
+Content Type: text/plain
+
+Uri: http://www.kadesprivate.xyz/download/cheat.dll
+File Name: C:\New folder\www.kadesprivate.xyz\download\cheat.dll
+Content Type: application/x-msdownload
+
+Uri: http://www.kadesprivate.xyz/Kade/Kade.js.download
+File Name: C:\New folder\www.kadesprivate.xyz\Kade\Kade.js.download
+Content Type: application/javascript
+
+Uri: http://www.kadesprivate.xyz/img/webm.webm
+File Name: C:\New folder\www.kadesprivate.xyz\img\webm.webm
+Content Type: video/webm
+
+Uri: http://www.kadesprivate.xyz/img/mp3.mp3
+File Name: C:\New folder\www.kadesprivate.xyz\img\mp3.mp3
+Content Type: audio/mpeg
+
+Uri: http://www.kadesprivate.xyz/Kade/jquery-2.1.4.min.js.download
+File Name: C:\New folder\www.kadesprivate.xyz\Kade\jquery-2.1.4.min.js.download
+Content Type: application/javascript
+
+Uri: http://www.kadesprivate.xyz/Kade/main.js.download
+File Name: C:\New folder\www.kadesprivate.xyz\Kade\main.js.download
+Content Type: application/javascript
+
+Uri: http://www.kadesprivate.xyz/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: C:\New folder\www.kadesprivate.xyz\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://www.kadesprivate.xyz/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\New folder\www.kadesprivate.xyz\fonts\fontawesome-webfont.txt
+Content Type: text/plain
+
+Uri: http://www.kadesprivate.xyz/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: C:\New folder\www.kadesprivate.xyz\fonts\fontawesome-webfont.woff
+Content Type: application/x-font-woff
+
+Uri: http://www.kadesprivate.xyz/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: C:\New folder\www.kadesprivate.xyz\fonts\fontawesome-webfont.ttf
+Content Type: application/x-font-ttf
+
+Uri: http://www.kadesprivate.xyz/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: C:\New folder\www.kadesprivate.xyz\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: http://www.kadesprivate.xyz/fonts/fontawesome-webfont.eot
+File Name: C:\New folder\www.kadesprivate.xyz\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
